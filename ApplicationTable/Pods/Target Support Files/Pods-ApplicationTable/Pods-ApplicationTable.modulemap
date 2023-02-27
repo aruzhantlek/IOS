@@ -1,0 +1,6 @@
+framework module Pods_ApplicationTable {
+  umbrella header "Pods-ApplicationTable-umbrella.h"
+
+  export *
+  module * { export * }
+}

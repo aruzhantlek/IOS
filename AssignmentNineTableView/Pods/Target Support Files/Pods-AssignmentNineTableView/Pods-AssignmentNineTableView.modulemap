@@ -1,0 +1,6 @@
+framework module Pods_AssignmentNineTableView {
+  umbrella header "Pods-AssignmentNineTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
